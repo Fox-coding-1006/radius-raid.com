@@ -25,7 +25,7 @@ $.Hero = function() {
 			damage: 1,
 			speed: 10,
 			piercing: 0,
-			strokeStyle: 'blue'
+			strokeStyle: 'red'
 		},
 		fireFlag: 0
 	};	
